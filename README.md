@@ -110,5 +110,3 @@ Aman Hordofo
 Computer Software Professional
 
 getamano@gmail.com
-
-Source: https://github.com/getamano/resume
