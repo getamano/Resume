@@ -1,5 +1,4 @@
-Aman Hordofo
-============
+# Aman Hordofo
 
 Computer Software Professional
 
@@ -7,50 +6,47 @@ getamano@gmail.com
 
 [getamano@github](https://github.com/getamano)
 
-Summary
--------
+## Summary
 
-I am a full-stack web developer for the past 10 years. My native language is PHP (Laravel). I'm fluent in front end development frameworks such as Angular, React, JavaScript, HTML/CSS, jQuery, TypeScript, but I enjoy backend development the most.
+I am a full-stack web developer for the past 12 years. My native language is PHP (Laravel). I'm fluent in front end development frameworks such as Angular, React, JavaScript, HTML/CSS, jQuery, TypeScript, but I enjoy backend development the most.
 
-Specialities
-------------
+## Specialities
 
 Software Development, Frontend Development, Backend Development, Database Architect, Cloud Tech, IT Security
 
-Skills & Expertise
-------------------
+## Skills & Expertise
 
-| Skill                           | Experience
-| ------------------------------- | ----------------------------------
-| PHP                             | (Advanced, 11 years experience)
-| Git                             | (Expert, 7 years experience)
-| Linux                           | (Expert, 6 years experience)
-| PostgreSQL                      | (Intermediate, 5 years experience)
-| Angular 6, 8                    | (Intermediate, 3 year experience)
-| MySQL                           | (Intermediate, 6 years experience)
-| SQLite                          | (Advanced, 6 years experience)
-| Perl                            | (Advanced, 6 years experience)
-| Laravel                         | (Intermediate, 3 year experience)
-| XML                             |
-| HTML                            | (Advanced, 11 years experience)
-| JavaScript                      | (Advanced, 7 years experience)
-| TypeScript                      | (Intermediate, 3 year experience)
-| jQuery                          | (Advanced, 7 year experience)
-| Unix Shell Scripting            | (Beginner, 1 years experience)
-| AWS Cloud                       | (Beginner, 1 year experience)
-| System Administration           |
-| Linux Server                    |
-| Linux System Administration     |
-| Java                            | (Beginner, 1 year experience)
+| Skill                       | Experience                         |
+| --------------------------- | ---------------------------------- |
+| PHP                         | (Advanced, 11 years experience)    |
+| Git                         | (Expert, 7 years experience)       |
+| Linux                       | (Expert, 6 years experience)       |
+| PostgreSQL                  | (Intermediate, 5 years experience) |
+| Angular 6, 8                | (Intermediate, 3 year experience)  |
+| MySQL                       | (Intermediate, 6 years experience) |
+| SQLite                      | (Advanced, 6 years experience)     |
+| Perl                        | (Advanced, 6 years experience)     |
+| Laravel                     | (Intermediate, 3 year experience)  |
+| XML                         |
+| HTML                        | (Advanced, 11 years experience)    |
+| JavaScript                  | (Advanced, 7 years experience)     |
+| TypeScript                  | (Intermediate, 3 year experience)  |
+| jQuery                      | (Advanced, 7 year experience)      |
+| Unix Shell Scripting        | (Beginner, 1 years experience)     |
+| AWS Cloud                   | (Beginner, 1 year experience)      |
+| System Administration       |
+| Linux Server                |
+| Linux System Administration |
+| Java                        | (Beginner, 1 year experience)      |
+
 | C
 | C++
 
-Experience
-----------
+## Experience
 
 **Senior - Web Application Developer.**
 
-Sep 2019 - Present *(4 months)*
+Sep 2019 - Present _(1 yr 11 mos)_
 
 - Write computer programs in the role of Senior Application Developer on enterprise-wide applications and projects.
 - Provide technical leadership to teams and other application developers for complex application development activities and projects.
@@ -62,7 +58,7 @@ Sep 2019 - Present *(4 months)*
 
 **Software Engineer, G2Planet, Inc.**
 
-Jul 2015 - Sep 2019 *(4 years 3 months)*
+Jul 2015 - Sep 2019 _(4 years 3 months)_
 
 - Lead developer on EventEXPRESS platform
 - Developer on EventMAX 2.0 platform
@@ -70,9 +66,10 @@ Jul 2015 - Sep 2019 *(4 years 3 months)*
 
 **Web Developer, DKS Sysyems**
 
-May 2014 - Jul 2015 *(1 year 3 months)*
+May 2014 - Jul 2015 _(1 year 3 months)_
 
- A fast-paced and constantly changing role where self-management is key.
+A fast-paced and constantly changing role where self-management is key.
+
 - Worked on projects for clients of many sizes and specialties, typically 5-10 projects per week.
 - Built online e-commerce platforms, landing pages, internal tracking software, online maps, marketing emails, questionnaires, etc.
 - Wordpress plugin development
@@ -81,29 +78,23 @@ May 2014 - Jul 2015 *(1 year 3 months)*
 
 **Application Developer, Enteege**
 
-Feb 2013 - May 2014 *(1 year 4 months)*
+Feb 2013 - May 2014 _(1 year 4 months)_
 
-- ecommerse website development 
+- ecommerse website development
 
+## Technical Experience
 
-Technical Experience
---------------------
+Open Source web application development. Both backend and frontend.
 
-Open Source web application developement. Both backend and frontend. 
-
-
-Education
----------
+## Education
 
 **Jimma University, Ethiopia**
 
 Computer Science, 2003 - 2007
 
-Interests
----------
+## Interests
 
-Linux, open source, GitHub, social networking, sound engineering
-
+Coding, Linux, open source, GitHub, social networking, engineering
 
 Aman Hordofo
 
