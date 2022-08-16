@@ -3,6 +3,7 @@
 Computer Software Professional
 
 getamanh@gmail.com
+
 www.amanhordofo.com
 
 [getamano@github](https://github.com/getamano)
@@ -117,5 +118,7 @@ Coding, Linux, open source, GitHub, social networking, engineering
 Aman Hordofo
 
 Computer Software Professional
+
 www.amanhordofo.com
+
 getamanh@gmail.com
