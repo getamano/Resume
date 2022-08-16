@@ -2,13 +2,16 @@
 
 Computer Software Professional
 
-getamano@gmail.com
+getamanh@gmail.com
+www.amanhordofo.com
 
 [getamano@github](https://github.com/getamano)
 
 ## Summary
 
-I am a full-stack web developer for the past 12 years. My native language is PHP (Laravel). I'm fluent in front end development frameworks such as Angular, React, JavaScript, HTML/CSS, jQuery, TypeScript, but I enjoy backend development the most.
+My name is Aman Hordofo, and I am a full-stack Web Application Developer & Software Engineer, currently working for the state government as a Senior Application Developer at the state of Minnesota.
+
+I have a Bachelor of Science in Computer Science. I have more than 15 years of experience in the IT industry. I am very passionate about Software Development and Cloud Technologies. I’m a father of 4 awesome kiddos two boys and two girls. Family is very important to me, and I spend lots of time with them.
 
 ## Specialities
 
@@ -22,7 +25,7 @@ Software Development, Frontend Development, Backend Development, Database Archit
 | Git                         | (Expert, 7 years experience)       |
 | Linux                       | (Expert, 6 years experience)       |
 | PostgreSQL                  | (Intermediate, 5 years experience) |
-| Angular 6, 8                | (Intermediate, 3 year experience)  |
+| Angular 2 - 13              | (Intermediate, 4 year experience)  |
 | MySQL                       | (Intermediate, 6 years experience) |
 | SQLite                      | (Advanced, 6 years experience)     |
 | Perl                        | (Advanced, 6 years experience)     |
@@ -38,15 +41,14 @@ Software Development, Frontend Development, Backend Development, Database Archit
 | Linux Server                |
 | Linux System Administration |
 | Java                        | (Beginner, 1 year experience)      |
-
-| C
-| C++
+| C                           | (Beginner, 1 year experience)      |
+| C++                         | (Beginner, 1 year experience)      |
 
 ## Experience
 
-**Senior - Web Application Developer.**
+**Senior Web Application Developer, State of Minnesota.**
 
-Sep 2019 - Present _(1 yr 11 mos)_
+Sep 2019 - Present
 
 - Write computer programs in the role of Senior Application Developer on enterprise-wide applications and projects.
 - Provide technical leadership to teams and other application developers for complex application development activities and projects.
@@ -55,6 +57,16 @@ Sep 2019 - Present _(1 yr 11 mos)_
 - Prepare program and developmental documentation that meets Minnesota IT Services project standards.
 - Plan and carry out assigned administrative tasks efficiently and on time
 - Miscellaneous projects and other duties as assigned.
+
+**Adjunct Instructor, Anoka-Ramsey Community College.**
+
+Sep 2022 - Present
+
+- Teach Database Systems for bachelor science students
+
+**Founder/ CEO, ImroNET LLC.**
+
+Sep 2021 - Present
 
 **Software Engineer, G2Planet, Inc.**
 
@@ -92,6 +104,12 @@ Open Source web application development. Both backend and frontend.
 
 Computer Science, 2003 - 2007
 
+## Certifications
+
+**Microsoft**
+
+Microsoft Certified: Azure Fundamentals
+
 ## Interests
 
 Coding, Linux, open source, GitHub, social networking, engineering
@@ -99,5 +117,5 @@ Coding, Linux, open source, GitHub, social networking, engineering
 Aman Hordofo
 
 Computer Software Professional
-
-getamano@gmail.com
+www.amanhordofo.com
+getamanh@gmail.com
