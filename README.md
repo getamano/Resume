@@ -2,10 +2,6 @@
 
 Computer Software Professional
 
-getamanh@gmail.com
-
-www.amanhordofo.com
-
 [getamano@github](https://github.com/getamano)
 
 ## Summary
@@ -58,6 +54,12 @@ Sep 2019 - Present
 - Prepare program and developmental documentation that meets Minnesota IT Services project standards.
 - Plan and carry out assigned administrative tasks efficiently and on time
 - Miscellaneous projects and other duties as assigned.
+
+**Adjunct Instructor, Minneapolis College.**
+
+Sep 2024 - Present
+
+- Instructor for ITEC 2545 - Java Programming;
 
 **Adjunct Instructor, Anoka-Ramsey Community College.**
 
