@@ -11,11 +11,11 @@ I have a **Bachelor of Science in Computer Science.** I am very passionate about
 ## Specialities
 
 Software Development, Frontend Development, Mobile App Development, Backend Development, Database Architect, Cloud Tech, IT Security
-                    | 
+                    
 
 ## Experience
 
-**Senior Web Application Developer, State of Minnesota.**
+### State of Minnesota, Saint Paul MN — Senior Application Developer
 
 Sep 2019 - Present
 
@@ -27,47 +27,44 @@ Sep 2019 - Present
 - Plan and carry out assigned administrative tasks efficiently and on time
 - Miscellaneous projects and other duties as assigned.
 
-**Adjunct Instructor, Minneapolis College.**
-
-Sep 2024 - Present
-
+### Minneapolis College — Adjunct Instructor 
+Sep 2024 - Present _(0 years 7 months)_
 - Instructor for ITEC 2545 - Java Programming;
 
-**Adjunct Instructor, Anoka-Ramsey Community College.**
 
-Sep 2022 - Present
+### Anoka-Ramsey Community College — Adjunct Instructor 
+Sep 2022 - Present _(1 years 11 months)_
+- Database Systems
+- Teaching Database systems &  Object-Oriented Programming (OOP) with Java. 
 
-- Teach Database Systems for bachelor science students
 
-**Founder/ CEO, ImroNET LLC.**
+### Founder/ CEO, RISH LLC.
 
-Sep 2021 - Present
+Sep 2021 - Present _(3 years 1 months)_
 
-**Software Engineer, G2Planet, Inc.**
+### G2Planet, MN, Minneapolis MN— Software Engineer
 
 Jul 2015 - Sep 2019 _(4 years 3 months)_
 
-- Lead developer on EventEXPRESS platform
-- Developer on EventMAX 2.0 platform
+- Lead developer on the EventEXPRESS platform
+- Developer on the EventMAX 2.0 platform
 - Experience with Angular 6, Git, GitLab CI, Laravel 5.3, PHP
 
-**Web Developer, DKS Sysyems**
-
+### DKS Systems, Golden Valley, MN — Web Developer
 May 2014 - Jul 2015 _(1 year 3 months)_
 
 A fast-paced and constantly changing role where self-management is key.
 
 - Worked on projects for clients of many sizes and specialties, typically 5-10 projects per week.
 - Built online e-commerce platforms, landing pages, internal tracking software, online maps, marketing emails, questionnaires, etc.
-- Wordpress plugin development
+- WordPress plugin development
 - Added mobile responsiveness to many sites.
-- Performed database, backend and frontend optimizations.
+- Performed database, backend, and frontend optimizations.
 
-**Application Developer, Enteege**
-
+### Entegee, New Hope, MN — Application Developer 
 Feb 2013 - May 2014 _(1 year 4 months)_
 
-- ecommerse website development
+- eCommerce website development
 
 ## Technical Experience
 
@@ -75,9 +72,8 @@ Open Source web application development. Both backend and frontend.
 
 ## Education
 
-**Jimma University, Ethiopia**
+**Computer Science, 2003 - 2007**
 
-Computer Science, 2003 - 2007
 
 ### 📝  Certifications
 
