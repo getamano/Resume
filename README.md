@@ -1,45 +1,20 @@
 # Aman Hordofo
+I'm Aman, an Application Developer, and instructor. I've been working in tech since 2007. 
 
-Computer Software Professional
 
-[getamano@github](https://github.com/getamano)
+[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/)
+
 
 ## Summary
 
-My name is Aman Hordofo, and I am a full-stack Web Application Developer & Software Engineer, currently working for the state government as a Senior Application Developer at the state of Minnesota.
+My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an adjunct instructor at Minnesota’s colleges and universities.
 
-I have a Bachelor of Science in Computer Science. I have more than 15 years of experience in the IT industry. I am very passionate about Software Development and Cloud Technologies. I’m a father of 4 awesome kiddos two boys and two girls. Family is very important to me, and I spend lots of time with them.
+I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
 
 ## Specialities
 
-Software Development, Frontend Development, Backend Development, Database Architect, Cloud Tech, IT Security
-
-## Skills & Expertise
-
-| Skill                       | Experience                         |
-| --------------------------- | ---------------------------------- |
-| PHP                         | (Advanced, 11 years experience)    |
-| Git                         | (Expert, 7 years experience)       |
-| Linux                       | (Expert, 6 years experience)       |
-| PostgreSQL                  | (Intermediate, 5 years experience) |
-| Angular 2 - 13              | (Intermediate, 4 year experience)  |
-| MySQL                       | (Intermediate, 6 years experience) |
-| SQLite                      | (Advanced, 6 years experience)     |
-| Perl                        | (Advanced, 6 years experience)     |
-| Laravel                     | (Intermediate, 3 year experience)  |
-| XML                         |
-| HTML                        | (Advanced, 11 years experience)    |
-| JavaScript                  | (Advanced, 7 years experience)     |
-| TypeScript                  | (Intermediate, 3 year experience)  |
-| jQuery                      | (Advanced, 7 year experience)      |
-| Unix Shell Scripting        | (Beginner, 1 years experience)     |
-| AWS Cloud                   | (Beginner, 1 year experience)      |
-| System Administration       |
-| Linux Server                |
-| Linux System Administration |
-| Java                        | (Beginner, 1 year experience)      |
-| C                           | (Beginner, 1 year experience)      |
-| C++                         | (Beginner, 1 year experience)      |
+Software Development, Frontend Development, Mobile App Development, Backend Development, Database Architect, Cloud Tech, IT Security
+                    | 
 
 ## Experience
 
@@ -107,20 +82,15 @@ Open Source web application development. Both backend and frontend.
 
 Computer Science, 2003 - 2007
 
-## Certifications
+### 📝  Certifications
 
-**Microsoft**
+| Microsoft Azure    | Amazon AWS  |
+| --------- | --------- |
+| <img src="https://github.com/getamano/getamano/blob/main/aws.png" width="100">  | <img src="https://github.com/getamano/getamano/blob/main/azure.png" width="100">  |
 
-Microsoft Certified: Azure Fundamentals
 
 ## Interests
 
 Coding, Linux, open source, GitHub, social networking, engineering
 
-Aman Hordofo
 
-Computer Software Professional
-
-www.amanhordofo.com
-
-getamanh@gmail.com
