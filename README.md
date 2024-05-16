@@ -83,7 +83,7 @@ Computer Science, 2003 - 2007
 
 | Microsoft Azure    | Amazon AWS  |
 | --------- | --------- |
-| <img src="https://github.com/getamano/Resume/blob/master/aws.png" width="100">  | <img src="https://github.com/getamano/Resume/blob/master/azure.png" width="100">  |
+| <img src="https://getamano.github.io/Resume/aws.png" width="100">  | <img src="https://getamano.github.io/Resume/azure.png" width="100">  |
 
 
 ## Interests
