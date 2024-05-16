@@ -1,15 +1,12 @@
 # Aman Hordofo
-I'm Aman, an Application Developer, and instructor. I've been working in tech since 2007. 
+My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an adjunct instructor at Minnesota’s colleges and universities.
+
+I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
 
 
 [![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/)
 
 
-## Summary
-
-My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an adjunct instructor at Minnesota’s colleges and universities.
-
-I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
 
 ## Specialities
 
@@ -86,7 +83,7 @@ Computer Science, 2003 - 2007
 
 | Microsoft Azure    | Amazon AWS  |
 | --------- | --------- |
-| <img src="https://github.com/getamano/getamano/blob/main/aws.png" width="100">  | <img src="https://github.com/getamano/getamano/blob/main/azure.png" width="100">  |
+| <img src="https://github.com/getamano/Resume/blob/master/aws.png" width="100">  | <img src="https://github.com/getamano/Resume/blob/master/azure.png" width="100">  |
 
 
 ## Interests
