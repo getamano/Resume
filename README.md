@@ -1,5 +1,5 @@
 # Aman Hordofo
-My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an adjunct instructor at Minnesota’s colleges and universities.
+My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an **adjunct instructor** at Minnesota’s colleges and universities.
 
 I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
 
