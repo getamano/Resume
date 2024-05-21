@@ -79,7 +79,7 @@ Open Source web application development. Both backend and frontend.
 
 | Microsoft Azure    | Amazon AWS  | GitHub Foundations|
 | --------- | --------- | :---------: |
-| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://www.credly.com/badges/7f2a8347-b66c-46a8-8ac0-e8e1fc5a0c94" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="42c9e85db38c" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a>  |
+| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://www.credly.com/badges/7f2a8347-b66c-46a8-8ac0-e8e1fc5a0c94" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="[42c9e85db38c](https://www.credly.com/badges/ed28cad3-dce5-441f-9727-42c9e85db38c)" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a>  |
 
 
 ## Interests
