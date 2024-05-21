@@ -77,9 +77,9 @@ Open Source web application development. Both backend and frontend.
 
 ### 📝  Certifications
 
-| Microsoft Azure    | Amazon AWS  |
-| --------- | --------- |
-| <img src="https://getamano.github.io/Resume/aws.png" width="100">  | <img src="https://getamano.github.io/Resume/azure.png" width="100">  |
+| Microsoft Azure    | Amazon AWS  | GitHub Foundations|
+| --------- | --------- | --------- |
+| <img src="https://getamano.github.io/Resume/aws.png" width="100">  | <img src="https://getamano.github.io/Resume/azure.png" width="100">  | <img src="https://getamano.github.io/Resume/github-foundation.png" width="100">  |
 
 
 ## Interests
