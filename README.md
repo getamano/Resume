@@ -75,11 +75,12 @@ Open Source web application development. Both backend and frontend.
 **Computer Science, 2003 - 2007**
 
 
+
 ### 📝  Certifications
 
-| Microsoft Azure    | Amazon AWS  | GitHub Foundations|
-| --------- | --------- | :---------: |
-| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://learn.microsoft.com/api/credentials/share/en-us/getamano/49EE50CEE5E080BA?sharingId" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="https://www.credly.com/badges/ed28cad3-dce5-441f-9727-42c9e85db38c" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a>  |
+| AWS Certified Cloud Practitioner| Microsoft Certified: Azure Fundamentals  | Microsoft Certified: Azure AI Fundamentals|GitHub Foundations|
+| :---------: | :---------: | :---------: |  :---------: |
+| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://learn.microsoft.com/api/credentials/share/en-us/getamano/49EE50CEE5E080BA?sharingId" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="https://learn.microsoft.com/api/credentials/share/en-us/getamano/BC77473BA0EF6A9E?sharingId=C39555B6073D61C4" target="_blank"><img src="https://getamano.github.io/Resume/AI-900+Badge.png" width="100"></a>  |  <a href="https://www.credly.com/badges/ed28cad3-dce5-441f-9727-42c9e85db38c" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a> |
 
 
 ## Interests
