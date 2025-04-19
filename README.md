@@ -4,7 +4,7 @@ My name is Aman Hordofo, and I'm a software engineer with over 17 years of exper
 I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
 
 
-[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/)
+[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanho/)](https://www.linkedin.com/in/amanho/)
 
 
 
