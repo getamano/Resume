@@ -7,9 +7,20 @@ Outside of my professional pursuits, I am a devoted husband and father to four w
 
 ---
 
-Lead Application Developer at State of Minnesota | Academic Lecturer | Web Technologies | Angular | React | Next.js | Typescript | ES6 | RxJS | Java | PHP
+- Lead Application Developer at State of Minnesota  
+- Academic Lecturer 
+- Web Technologies 
+- Angular 
+- React 
+- Next.js 
+- Typescript 
+- ES6
+- RxJS
+- Java
+- PHP
                     
 
+----
 
 
 [![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanho/)](https://www.linkedin.com/in/amanho/)
