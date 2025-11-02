@@ -1,23 +1,36 @@
 # Aman Hordofo
-My name is Aman Hordofo, and I'm a software engineer with over 17 years of experience, currently working for the state government as a **Senior Application Developer** at the *State of Minnesota* and an **adjunct instructor** at Minnesota’s colleges and universities.
+As a software engineer, I bring over 17 years of experience in software development and the Software Development Life Cycle (SDLC). I currently serve as a Lead Application Developer for the State of Minnesota. Additionally, I hold adjunct instructor positions at various colleges and universities in Minnesota, where I share my expertise in software development and related fields.
 
-I have a **Bachelor of Science in Computer Science.** I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos. 
+I am deeply passionate about software development, artificial intelligence, and cloud technologies.
+
+Outside of my professional pursuits, I am a devoted husband and father to four wonderful children, successfully balancing my career with my commitment to family life.
+
+---
+
+Lead Application Developer at State of Minnesota | Academic Lecturer | Web Technologies | Angular | React | Next.js | Typescript | ES6 | RxJS | Java | PHP
+                    
+
 
 
 [![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanho/)](https://www.linkedin.com/in/amanho/)
 
 
 
-## Specialities
-
-Software Development, Frontend Development, Mobile App Development, Backend Development, Database Architect, Cloud Tech, IT Security
-                    
-
 ## Experience
 
-### State of Minnesota, Saint Paul MN — Senior Application Developer
+### State of Minnesota, Saint Paul MN 
 
-Sep 2019 - Present
+#### Lead Application Developer
+
+Aug 2025 - Present
+
+As a Lead Application Developer, I provide technical leadership for the angular developer team and administration of Angular-based applications at Minnesota IT Services (MNIT), supporting Pollution Control Agency (PCA). 
+
+My role involves shaping the technical strategy and architecture for mission-critical applications, as well as leading design, development, implementation, diagnostics, and performance optimization efforts.
+
+#### Senior Application Developer
+
+Sep 2019 - Aug 2025
 
 - Write computer programs in the role of Senior Application Developer on enterprise-wide applications and projects.
 - Provide technical leadership to teams and other application developers for complex application development activities and projects.
@@ -28,14 +41,21 @@ Sep 2019 - Present
 - Miscellaneous projects and other duties as assigned.
 
 ### Minneapolis College — Adjunct Instructor 
-Sep 2024 - Present _(0 years 7 months)_
-- Instructor for ITEC 2545 - Java Programming;
+Sep 2024 - Present 
+
+Department of Information Technology
+
+- ITEC 2545-Java Programming
+- ITEC 1465- MySQL Database Design and Implementation
 
 
 ### Anoka-Ramsey Community College — Adjunct Instructor 
-Sep 2022 - Present _(1 years 11 months)_
-- Database Systems
-- Teaching Database systems &  Object-Oriented Programming (OOP) with Java. 
+Sep 2022 - Present
+
+Department of Computer Science 
+
+- CSCI 1201- Database Systems
+- CSCI 1125- Object-Oriented Programming Using Java
 
 
 ### Founder/ CEO, RISH LLC.
@@ -72,6 +92,7 @@ Open Source web application development. Both backend and frontend.
 
 ## Education
 
+**Software Engineering, 2023 - Present**
 **Computer Science, 2003 - 2007**
 
 
