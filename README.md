@@ -1,122 +1,139 @@
-# Aman Hordofo
-As a software engineer, I bring over 17 years of experience in software development and the Software Development Life Cycle (SDLC). I currently serve as a Lead Application Developer for the State of Minnesota. Additionally, I hold adjunct instructor positions at various colleges and universities in Minnesota, where I share my expertise in software development and related fields.
+# 💻 Aman Hordofo
 
-I am deeply passionate about software development, artificial intelligence, and cloud technologies.
+> **Lead Application Developer | Adjunct Instructor | AI, Cloud & Web Technologies Enthusiast**
 
-Outside of my professional pursuits, I am a devoted husband and father to four wonderful children, successfully balancing my career with my commitment to family life.
+[![LinkedIn: ahordofo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amanho/)](https://www.linkedin.com/in/amanho/)
 
 ---
 
-- Lead Application Developer at State of Minnesota  
-- Academic Lecturer 
-- Web Technologies 
-- Angular 
-- React 
-- Next.js 
-- Typescript 
-- ES6
-- RxJS
-- Java
-- PHP
-                    
+## 👨🏾‍💻 About Me
 
-----
+As a **Software Engineer**, I bring **17+ years of experience** in software development and the **Software Development Life Cycle (SDLC)**.  
+Currently, I serve as a **Lead Application Developer** for the **State of Minnesota**.  
+In addition, I teach as an **Adjunct Instructor** at various Minnesota colleges and universities, sharing my expertise in software engineering and technology.
 
+I am deeply passionate about **software development**, **artificial intelligence**, and **cloud technologies**.  
+Outside of work, I’m a **devoted husband and father of four**, balancing my professional responsibilities with family life.
 
-[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanho/)](https://www.linkedin.com/in/amanho/)
+---
 
+## 🧭 Professional Summary
 
+**Lead Application Developer at State of Minnesota | Academic Lecturer | Web & Cloud Technologies**
 
-## Experience
+**Core Skills:**  
+`Angular` • `React` • `Next.js` • `TypeScript` • `ES6` • `RxJS` • `Java` • `PHP` • `SDLC` • `Leadership` • `AI & Cloud`
 
-### State of Minnesota, Saint Paul MN 
+---
 
-#### Lead Application Developer
+## 🧩 Experience
 
-Aug 2025 - Present
+### 🏛️ State of Minnesota — *Saint Paul, MN*
 
-As a Lead Application Developer, I provide technical leadership for the angular developer team and administration of Angular-based applications at Minnesota IT Services (MNIT), supporting Pollution Control Agency (PCA). 
+**Lead Application Developer**  
+📅 *Aug 2025 – Present*  
 
-My role involves shaping the technical strategy and architecture for mission-critical applications, as well as leading design, development, implementation, diagnostics, and performance optimization efforts.
+- Provide technical leadership for the Angular developer team within MNIT Services supporting the Pollution Control Agency (PCA).  
+- Lead architecture, design, and implementation of large-scale Angular-based applications.  
+- Define best practices for development, testing, deployment, and performance optimization.
 
-#### Senior Application Developer
+**Senior Application Developer**  
+📅 *Sep 2019 – Aug 2025*  
 
-Sep 2019 - Aug 2025
+- Developed enterprise-wide applications in line with SDLC and QA standards.  
+- Provided technical guidance to developers across multiple teams.  
+- Created and maintained documentation adhering to MNIT project standards.  
+- Planned and executed complex development and administrative tasks efficiently.
 
-- Write computer programs in the role of Senior Application Developer on enterprise-wide applications and projects.
-- Provide technical leadership to teams and other application developers for complex application development activities and projects.
-- Support and analyze enterprise-wide application systems in the role of Senior Application Developer.
-- Follow agency Software Development Life Cycle (SDLC) and Quality Assurance (QA) processes, policies, and procedures as defined for Minnesota IT Services.
-- Prepare program and developmental documentation that meets Minnesota IT Services project standards.
-- Plan and carry out assigned administrative tasks efficiently and on time
-- Miscellaneous projects and other duties as assigned.
+---
 
-### Minneapolis College — Adjunct Instructor 
-Sep 2024 - Present 
+### 🎓 Minneapolis College — *Adjunct Instructor*  
+📅 *Sep 2024 – Present*  
 
-Department of Information Technology
+**Department of Information Technology**  
+- *ITEC 2545 – Java Programming*  
+- *ITEC 1465 – MySQL Database Design and Implementation*
 
-- ITEC 2545-Java Programming
-- ITEC 1465- MySQL Database Design and Implementation
+---
 
+### 🎓 Anoka-Ramsey Community College — *Adjunct Instructor*  
+📅 *Sep 2022 – Present*  
 
-### Anoka-Ramsey Community College — Adjunct Instructor 
-Sep 2022 - Present
+**Department of Computer Science**  
+- *CSCI 1201 – Database Systems*  
+- *CSCI 1125 – Object-Oriented Programming Using Java*
 
-Department of Computer Science 
+---
 
-- CSCI 1201- Database Systems
-- CSCI 1125- Object-Oriented Programming Using Java
+### 💡 RISH LLC — *Founder / CEO*  
+📅 *Sep 2021 – Present*  
 
+- Provide consulting and software development services.  
+- Lead projects from concept to deployment with a focus on modern web technologies.
 
-### Founder/ CEO, RISH LLC.
+---
 
-Sep 2021 - Present _(3 years 1 months)_
+### 🧠 G2Planet — *Software Engineer*  
+📍 Minneapolis, MN  
+📅 *Jul 2015 – Sep 2019*  
 
-### G2Planet, MN, Minneapolis MN— Software Engineer
+- Lead developer for **EventEXPRESS** and **EventMAX 2.0** platforms.  
+- Worked extensively with Angular 6, GitLab CI, Laravel 5.3, and PHP.  
+- Collaborated with cross-functional teams to deliver event management solutions.
 
-Jul 2015 - Sep 2019 _(4 years 3 months)_
+---
 
-- Lead developer on the EventEXPRESS platform
-- Developer on the EventMAX 2.0 platform
-- Experience with Angular 6, Git, GitLab CI, Laravel 5.3, PHP
+### 💼 DKS Systems — *Web Developer*  
+📍 Golden Valley, MN  
+📅 *May 2014 – Jul 2015*  
 
-### DKS Systems, Golden Valley, MN — Web Developer
-May 2014 - Jul 2015 _(1 year 3 months)_
+- Developed responsive websites, eCommerce platforms, and custom plugins.  
+- Improved site performance through front-end and database optimizations.  
+- Delivered multiple client projects weekly in a fast-paced environment.
 
-A fast-paced and constantly changing role where self-management is key.
+---
 
-- Worked on projects for clients of many sizes and specialties, typically 5-10 projects per week.
-- Built online e-commerce platforms, landing pages, internal tracking software, online maps, marketing emails, questionnaires, etc.
-- WordPress plugin development
-- Added mobile responsiveness to many sites.
-- Performed database, backend, and frontend optimizations.
+### 🧩 Entegee — *Application Developer*  
+📍 New Hope, MN  
+📅 *Feb 2013 – May 2014*  
 
-### Entegee, New Hope, MN — Application Developer 
-Feb 2013 - May 2014 _(1 year 4 months)_
+- Developed and maintained eCommerce websites and business applications.  
 
-- eCommerce website development
+---
 
-## Technical Experience
+## 🧠 Technical Experience
 
-Open Source web application development. Both backend and frontend.
+Open-source web application development — both **backend** and **frontend**.  
+Strong background in **Angular**, **TypeScript**, **Java**, and **Cloud Computing**.
 
-## Education
+---
 
-**Software Engineering, 2023 - Present**
-**Computer Science, 2003 - 2007**
+## 🎓 Education
 
+**Master of Science in Software Engineering**  
+📅 *2024 – Present 
 
+**Bachelor of Science in Computer Science**  
+📅 *2003 – 2007*
 
-### 📝  Certifications
+---
 
-| AWS Certified Cloud Practitioner| Microsoft Certified: Azure Fundamentals  | Microsoft Certified: Azure AI Fundamentals|GitHub Foundations|
-| :---------: | :---------: | :---------: |  :---------: |
-| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://learn.microsoft.com/api/credentials/share/en-us/getamano/49EE50CEE5E080BA?sharingId" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="https://learn.microsoft.com/api/credentials/share/en-us/getamano/BC77473BA0EF6A9E?sharingId=C39555B6073D61C4" target="_blank"><img src="https://getamano.github.io/Resume/AI-900+Badge.png" width="100"></a>  |  <a href="https://www.credly.com/badges/ed28cad3-dce5-441f-9727-42c9e85db38c" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a> |
+## 🏅 Certifications
 
+| AWS Certified Cloud Practitioner | Microsoft Certified: Azure Fundamentals | Microsoft Certified: Azure AI Fundamentals | GitHub Foundations |
+| :------------------------------: | :------------------------------------: | :---------------------------------------: | :----------------: |
+| [<img src="https://getamano.github.io/Resume/aws.png" width="100">](https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6) | [<img src="https://getamano.github.io/Resume/azure.png" width="100">](https://learn.microsoft.com/api/credentials/share/en-us/getamano/49EE50CEE5E080BA?sharingId) | [<img src="https://getamano.github.io/Resume/AI-900+Badge.png" width="100">](https://learn.microsoft.com/api/credentials/share/en-us/getamano/BC77473BA0EF6A9E?sharingId=C39555B6073D61C4) | [<img src="https://getamano.github.io/Resume/github-foundation.png" width="100">](https://www.credly.com/badges/ed28cad3-dce5-441f-9727-42c9e85db38c) |
 
-## Interests
+---
 
-Coding, Linux, open source, GitHub, social networking, engineering
+## 🌱 Interests
+
+- Software Development  
+- Linux & Open Source  
+- Cloud & AI Technologies  
+- GitHub & Community Collaboration  
+- Engineering & Continuous Learning
+
+---
 
 
