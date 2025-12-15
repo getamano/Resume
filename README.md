@@ -18,7 +18,7 @@ I am deeply passionate about **software development**, **artificial intelligence
 
 ## 🧭 Professional Summary
 
-**Principal Software Engineer at Medtronic | Academic Lecturer | Web & Cloud Technologies**
+**Principal Software Engineer** | **Academic Lecturer** | **AI**
 
 **Core Skills:**  
 `Angular` • `React` • `Next.js` • `TypeScript` • `ES6` • `RxJS` • `Java` • `PHP` • `SDLC` • `Leadership` • `AI & Cloud`
