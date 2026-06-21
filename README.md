@@ -1,8 +1,8 @@
 # 💻 Aman Hordofo
 
-**Principal Software Engineer | Adjunct Instructor | AI, Cloud & Web Technologies Specialist**
+### Principal Software Engineer • Adjunct Instructor • AI, Cloud & Web Technologies Specialist
 
-A seasoned software engineering leader with over 17 years of experience designing, architecting, and delivering enterprise-grade cloud applications and high-performance web systems. Proven expertise in leading cross-functional developer teams, driving modern DevSecOps practices, and bridging industry innovation with academia through computer science instruction.
+A seasoned software engineering leader with over 20 years of experience designing, architecting, and delivering enterprise-grade cloud applications and high-performance web systems. Proven expertise in leading cross-functional developer teams, driving modern DevSecOps practices, and bridging industry innovation with academia through computer science instruction.
 
 ---
 
